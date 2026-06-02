@@ -1,9 +1,6 @@
-# my_first_repo
+## What I learned  Today
 
-# My first Repository
-A bigineer GitHub project
-created during the workshop
+I am currently sttending a Github workshop
+Today I learned about:- Version control - Creating a reepository - The edit-commit-push cycle
 
-# About Me
-My name is **Kevindu**
-I am learning GitHub
+My Github profile - https://github.com/kevinduarosha
