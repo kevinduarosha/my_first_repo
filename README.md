@@ -1,6 +1,6 @@
 # my_first_repo
 
-# My firdt Repository
+# My first Repository
 A bigineer GitHub project
 created during the workshop
 
